@@ -1,0 +1,162 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144.2rem;
+}.asur-LPq {
+  box-sizing: border-box;
+  padding: 0.1rem 0rem 1.927rem 0rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+}
+.asur-LPq .auto-group-fnud-rNB {
+  margin: 0rem 1.1rem 1.9rem 0rem;
+  width: calc(100% - 1.1rem);
+  height: 85.3rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.asur-LPq .auto-group-fnud-rNB .auto-group-r6qd-weX {
+  margin-right: 0.9rem;
+  height: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/detail-from-the-poster-for-asur-season-2-757-1-bg.png');
+  flex-shrink: 0;
+}
+.asur-LPq .auto-group-fnud-rNB .auto-group-r6qd-weX .detail-from-the-poster-for-asur-season-2-757-2-HyH {
+  width: 134rem;
+  height: 85.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.asur-LPq .auto-group-fnud-rNB .auto-group-ytfm-PmR {
+  margin-top: 2.4rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.asur-LPq .auto-group-fnud-rNB .auto-group-ytfm-PmR .icon-play-circle-7hR {
+  margin: 0rem 0.2rem 10.6rem 0rem;
+  width: 8rem;
+  height: 8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.asur-LPq .auto-group-fnud-rNB .auto-group-ytfm-PmR .vector-RTD {
+  margin: 0rem 0.2rem 9.69rem 0rem;
+  width: 8rem;
+  height: 8.01rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.asur-LPq .auto-group-fnud-rNB .auto-group-ytfm-PmR .icon-data-transfer-download-8Md {
+  margin-bottom: 10.7rem;
+  width: 8rem;
+  height: 8rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.asur-LPq .auto-group-fnud-rNB .auto-group-ytfm-PmR .icon-share-boxed-3zP {
+  width: 7rem;
+  height: 7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.asur-LPq .auto-group-h9hh-PYT {
+  margin-bottom: 2rem;
+  width: 40rem;
+  height: 3.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.asur-LPq .auto-group-h9hh-PYT .hindi-thriller-u-a-16-7zF {
+  width: 40rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.asur-LPq .auto-group-h9hh-PYT .ellipse-1-E3H {
+  width: 1rem;
+  height: 1rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 1.5rem;
+  background-color: #d9d9d9;
+  border-radius: 0.5rem;
+}
+.asur-LPq .auto-group-h9hh-PYT .ellipse-3-Z5Z {
+  width: 1rem;
+  height: 1rem;
+  position: absolute;
+  left: 12.8rem;
+  top: 1.5rem;
+  background-color: #d9d9d9;
+  border-radius: 0.5rem;
+}
+.asur-LPq .auto-group-h9hh-PYT .ellipse-4-UTR {
+  width: 1rem;
+  height: 1rem;
+  position: absolute;
+  left: 28.1rem;
+  top: 1.5rem;
+  background-color: #d9d9d9;
+  border-radius: 0.5rem;
+}
+.asur-LPq .auto-group-cghd-bH9 {
+  margin: 0rem 2.1rem 0rem 2.4rem;
+  width: calc(100% - 4.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.asur-LPq .auto-group-cghd-bH9 .season-1-vKR {
+  margin: 0rem 119.3rem 0.173rem 0rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.asur-LPq .auto-group-cghd-bH9 .icon-chevron-left-oe7 {
+  width: 5rem;
+  height: 7.2727rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

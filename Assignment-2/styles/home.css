@@ -1,0 +1,298 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144.2rem;
+}.home-z79 {
+  box-sizing: border-box;
+  padding: 0.1rem 0rem 7.7rem 0rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  backdrop-filter: blur(0.2rem);
+  background-color: #000000;
+}
+.home-z79 .auto-group-yt7z-gEs {
+  margin: 0rem 2.7rem 6.55rem 0rem;
+  width: calc(100% - 2.7rem);
+  height: 20rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-z79 .auto-group-yt7z-gEs .d8c981158d040d782fd8a326c85357d-2-Avj {
+  width: 20rem;
+  height: 20rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-z79 .auto-group-yt7z-gEs .auto-group-vgdu-tbq {
+  box-sizing: border-box;
+  padding: 5.2rem 0rem 5.66rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-z79 .auto-group-yt7z-gEs .auto-group-vgdu-tbq .auto-group-tyhu-R5y {
+  margin-right: 8.8rem;
+  width: 106.4rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-z79 .auto-group-yt7z-gEs .auto-group-vgdu-tbq .auto-group-tyhu-R5y .rectangle-4-m9q {
+  width: 106.4rem;
+  height: 8.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #d9d9d9;
+  border-radius: 3.5rem;
+}
+.home-z79 .auto-group-yt7z-gEs .auto-group-vgdu-tbq .auto-group-tyhu-R5y .search-VLj {
+  width: 11rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 9.4rem;
+  top: 2.2rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-z79 .auto-group-yt7z-gEs .auto-group-vgdu-tbq .auto-group-tyhu-R5y .my-project-1-1-BzF {
+  width: 8rem;
+  height: 8.64rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 0.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-z79 .auto-group-yt7z-gEs .auto-group-vgdu-tbq .icon-menu-ufM {
+  margin-bottom: 0.4056rem;
+  width: 7.5rem;
+  height: 6.5344rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.home-z79 .latest-release-1iP {
+  margin: 0rem 0rem 4.85rem 4.8rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-z79 .auto-group-givu-KDH {
+  margin: 0rem 8.6rem 8.55rem 4.1rem;
+  width: calc(100% - 12.7rem);
+  height: 21rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-z79 .auto-group-givu-KDH .asur-2-review-1-djm {
+  margin-right: 5rem;
+  width: 40rem;
+  height: 21rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.home-z79 .auto-group-givu-KDH .auto-group-opj3-m5H {
+  margin-right: 6.5rem;
+  height: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mv5bndq4mte5yzitmmy2os00ngviltlkyjctzwvhytdhzwy4n2uyxkeyxkfqcgdeqxvymtezmti1mjk3-1-bg.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.home-z79 .auto-group-givu-KDH .auto-group-opj3-m5H .mv5bndq4mte5yzitmmy2os00ngviltlkyjctzwvhytdhzwy4n2uyxkeyxkfqcgdeqxvymtezmti1mjk3-2-hzX {
+  width: 40rem;
+  height: 21rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+.home-z79 .auto-group-givu-KDH .auto-group-zmom-Nqm {
+  width: 40rem;
+  height: 100%;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/hd-wallpaper-citadel-2023-poster-citadel-tv-shows-amazon-priyanka-chopra-richard-madden-1-bg.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.home-z79 .auto-group-givu-KDH .auto-group-zmom-Nqm .citadel-jAX {
+  width: 11.4rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 15.2rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-z79 .auto-group-givu-KDH .auto-group-zmom-Nqm .hindi-thriller-u-a-16-qDZ {
+  width: 14.8rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 19.1rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-z79 .auto-group-givu-KDH .auto-group-zmom-Nqm .hd-wallpaper-citadel-2023-poster-citadel-tv-shows-amazon-priyanka-chopra-richard-madden-2-Y7y {
+  width: 40rem;
+  height: 21rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+.home-z79 .recently-watched-zkf {
+  margin: 0rem 0rem 4.85rem 4.1rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-z79 .auto-group-cqu3-WU7 {
+  margin: 0rem 8.6rem 0rem 4.1rem;
+  width: calc(100% - 12.7rem);
+  height: 21rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-z79 .auto-group-cqu3-WU7 .auto-group-uvkp-2xF {
+  margin-right: 5rem;
+  width: 40rem;
+  height: 100%;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ib71-feature-1-bg.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.home-z79 .auto-group-cqu3-WU7 .auto-group-uvkp-2xF .ib-71-aTy {
+  width: 7.3rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 0;
+  top: 14.7rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-z79 .auto-group-cqu3-WU7 .auto-group-uvkp-2xF .hindi-spy-thriller-u-a-16-tzT {
+  width: 17.7rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 18.9rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-z79 .auto-group-cqu3-WU7 .auto-group-uvkp-2xF .ib71-feature-2-1JP {
+  width: 40rem;
+  height: 21rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+.home-z79 .auto-group-cqu3-WU7 .auto-group-yfxs-Wkw {
+  margin-right: 6.5rem;
+  height: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/anil-kapoor-aditya-roy-kapur-feature-on-book-cover-of-john-le-carres-the-night-manager-01-1-bg.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.home-z79 .auto-group-cqu3-WU7 .auto-group-yfxs-Wkw .anil-kapoor-aditya-roy-kapur-feature-on-book-cover-of-john-le-carres-the-night-manager-01-2-g9d {
+  width: 40rem;
+  height: 21rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+.home-z79 .auto-group-cqu3-WU7 .auto-group-1scw-Lzs {
+  height: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/desktop-wallpaper-anupamaa-written-update-11-nov-2020-bapuji-opens-eyes-after-operation-1-bg.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.home-z79 .auto-group-cqu3-WU7 .auto-group-1scw-Lzs .desktop-wallpaper-anupamaa-written-update-11-nov-2020-bapuji-opens-eyes-after-operation-2-6z3 {
+  width: 40rem;
+  height: 21rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+}

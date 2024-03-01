@@ -1,0 +1,123 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 105rem;
+}.search-RUs {
+  box-sizing: border-box;
+  padding: 5.25rem 3.7rem 17.3rem 3.7rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+}
+.search-RUs .history-M7d {
+  margin-bottom: 0.95rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.search-RUs .auto-group-pz5m-GVV {
+  margin: 0rem 86.2rem 0.5rem 0.5rem;
+  width: calc(100% - 86.7rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.search-RUs .auto-group-pz5m-GVV .seekpng-1-C8F {
+  margin-top: 0.833rem;
+  width: 2.5rem;
+  height: 2.133rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.search-RUs .auto-group-pz5m-GVV .mirzapur-8Go {
+  cursor: pointer;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.search-RUs .auto-group-pz5m-GVV .mirzapur-8Go .mirzapur-8Go-sub-0 {
+}
+.search-RUs .auto-group-pz5m-GVV .mirzapur-8Go .mirzapur-8Go-sub-1 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #7a7a7a;
+  font-family: Inter, 'Source Sans Pro';
+}
+.search-RUs .auto-group-b8ss-7nw {
+  margin: 0rem 79.7rem 0.7rem 0.5rem;
+  width: calc(100% - 80.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.search-RUs .auto-group-b8ss-7nw .seekpng-2-3Ao {
+  margin: 0rem 0.7rem 0.167rem 0rem;
+  width: 2.5rem;
+  height: 2.133rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.search-RUs .auto-group-b8ss-7nw .sacred-games-Lvb {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #7a7a7a;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.search-RUs .auto-group-zh4s-4bh {
+  margin: 0rem 83.7rem 0rem 0.5rem;
+  width: calc(100% - 84.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.search-RUs .auto-group-zh4s-4bh .seekpng-3-oJP {
+  margin: 0rem 0.7rem 0.167rem 0rem;
+  width: 2.5rem;
+  height: 2.133rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.search-RUs .auto-group-zh4s-4bh .bigg-boss-KGj {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #7a7a7a;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

@@ -1,0 +1,90 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.login-Gij {
+  box-sizing: border-box;
+  position: relative;
+  flex-direction: column;
+  padding: 11.15rem 29.1rem 36.8rem 25.3rem;
+  width: 100%;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  background-color: rgba(0, 0, 0, 0.8399999738);
+
+  .login-Bao {
+    margin: 0rem 0rem 9.35rem 4.8rem;
+    white-space: nowrap;
+    flex-shrink: 0;
+    font-size: 6.4rem;
+    font-weight: 800;
+    line-height: 1.2125;
+    color: #d8d8d8;
+    font-family: Inter, 'Source Sans Pro';
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .auto-group-dec7-3su {
+    display: flex;
+    color: #000000;
+    white-space: nowrap;
+    background-color: #d9d9d9;
+    border-radius: 2rem;
+    margin-bottom: 2.5rem;
+    box-sizing: border-box;
+    padding: 3.05rem 2.1rem 3.25rem 2.1rem;
+    font-size: 3.2rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    flex-shrink: 0;
+    width: 100%;
+    font-family: Inter, 'Source Sans Pro';
+  }
+  .auto-group-v12f-gvs {
+    width: 100%;
+    font-size: 3.2rem;
+    font-weight: 400;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    display: flex;
+    border-radius: 2rem;
+    margin-bottom: 7.8rem;
+    padding: 3.15rem 2.1rem;
+    line-height: 1.2125;
+    color: #000000;
+    background-color: #d9d9d9;
+    box-sizing: border-box;
+    flex-shrink: 0;
+  }
+  .auto-group-cmsd-Zzf {
+    font-weight: 700;
+    background-color: #d8d8d8;
+    flex-shrink: 0;
+    width: calc(100% - 55rem);
+    align-items: center;
+    white-space: nowrap;
+    margin: 0 27.5rem;
+    height: 6.6rem;
+    display: flex;
+    justify-content: center;
+    font-size: 3.2rem;
+    line-height: 1.2125;
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+    border-radius: 3rem;
+  }
+}

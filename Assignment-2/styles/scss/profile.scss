@@ -1,0 +1,100 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 29.3rem;
+}.profile-A4P {
+  flex-direction: column;
+  opacity: 0.75;
+  box-sizing: border-box;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  background-color: rgba(0, 0, 0, 0.75);
+  padding: 2.3rem 3.8rem 8.15rem 2.2rem;
+  width: 100%;
+
+  .auto-group-v73u-Gt7 {
+    margin: 0rem 2.9rem 4.45rem 0rem;
+    width: calc(100% - 2.9rem);
+    display: flex;
+    align-items: flex-end;
+    flex-shrink: 0;
+
+    .icon-person-nbZ {
+      width: 5.8rem;
+      height: 4.8rem;
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+      margin-right: 2.6rem;
+    }
+    .profiles-5qZ {
+      color: #ffffff;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 3.2rem;
+      font-weight: 700;
+      line-height: 1.2125;
+      flex-shrink: 0;
+      margin-bottom: 0.2rem;
+      display: flex;
+      white-space: nowrap;
+    }
+  }
+  .account-settings-CfH {
+    margin: 0rem 0rem 1.6rem 0.7rem;
+    font-weight: 700;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+    display: flex;
+    font-size: 2.4rem;
+    line-height: 1.2125;
+    color: #ffffff;
+  }
+  .help-7GT {
+    font-weight: 700;
+    line-height: 1.2125;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    display: flex;
+    font-size: 2.4rem;
+    flex-shrink: 0;
+    margin: 0rem 0rem 1.6rem 0.7rem;
+    color: #ffffff;
+  }
+  .sign-out-Coh {
+    font-size: 2.4rem;
+    font-weight: 700;
+    line-height: 1.2125;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+    margin: 0rem 0rem 1.6rem 0.7rem;
+    cursor: pointer;
+    display: flex;
+    color: #ffffff;
+  }
+  .privacy-policy-uy1 {
+    font-weight: 700;
+    line-height: 1.2125;
+    white-space: nowrap;
+    flex-shrink: 0;
+    margin-left: 0.7rem;
+    display: flex;
+    font-size: 2.4rem;
+    color: #ffffff;
+    font-family: Inter, 'Source Sans Pro';
+  }
+}

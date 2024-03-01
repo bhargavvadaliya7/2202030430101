@@ -1,0 +1,147 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144.2rem;
+}.citadel-6aT {
+  box-sizing: border-box;
+  padding-bottom: 1.9273rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  row-gap: 2rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+}
+.citadel-6aT .auto-group-kx2f-Qr3 {
+  margin-right: 1.1rem;
+  width: calc(100% - 1.1rem);
+  height: 85.3rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.citadel-6aT .auto-group-kx2f-Qr3 .auto-group-ue7h-jtK {
+  margin-right: 0.9rem;
+  height: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/citadel-review-priyanka-chopra-richard-madden-1-bg.png');
+  flex-shrink: 0;
+}
+.citadel-6aT .auto-group-kx2f-Qr3 .auto-group-ue7h-jtK .citadel-review-priyanka-chopra-richard-madden-2-goZ {
+  width: 134rem;
+  height: 85.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.citadel-6aT .auto-group-kx2f-Qr3 .auto-group-ebd1-BEX {
+  margin-top: 2.5rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.citadel-6aT .auto-group-kx2f-Qr3 .auto-group-ebd1-BEX .icon-play-circle-7dy {
+  margin: 0rem 0.2rem 10.6rem 0rem;
+  width: 8rem;
+  height: 8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.citadel-6aT .auto-group-kx2f-Qr3 .auto-group-ebd1-BEX .icon-reload-qK5 {
+  margin: 0rem 0.2rem 9.69rem 0rem;
+  width: 8rem;
+  height: 8.01rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.citadel-6aT .auto-group-kx2f-Qr3 .auto-group-ebd1-BEX .icon-data-transfer-download-YzB {
+  margin-bottom: 10.7rem;
+  width: 8rem;
+  height: 8rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.citadel-6aT .auto-group-kx2f-Qr3 .auto-group-ebd1-BEX .icon-share-boxed-fou {
+  width: 7rem;
+  height: 7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.citadel-6aT .auto-group-temv-zrB {
+  margin-right: 104.2rem;
+  width: 40rem;
+  height: 3.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.citadel-6aT .auto-group-temv-zrB .hindi-thriller-u-a-16-vjq {
+  width: 40rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.citadel-6aT .auto-group-temv-zrB .ellipse-1-csZ {
+  width: 1rem;
+  height: 1rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 1.5rem;
+  background-color: #d9d9d9;
+  border-radius: 0.5rem;
+}
+.citadel-6aT .auto-group-temv-zrB .ellipse-2-xAj {
+  width: 1rem;
+  height: 1rem;
+  position: absolute;
+  left: 27.7rem;
+  top: 1.5rem;
+  background-color: #d9d9d9;
+  border-radius: 0.5rem;
+}
+.citadel-6aT .auto-group-temv-zrB .frame-1-soV {
+  width: 1rem;
+  height: 1rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 1.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.citadel-6aT .icon-chevron-left-QYX {
+  margin-right: 2.1rem;
+  width: 5rem;
+  height: 7.2727rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
